@@ -1,13 +1,13 @@
 {
-  "main.css": "/TaskList/static/css/main.2eb06e0c.chunk.css",
-  "main.js": "/TaskList/static/js/main.e637bb76.chunk.js",
-  "main.js.map": "/TaskList/static/js/main.e637bb76.chunk.js.map",
-  "static/js/1.7b630814.chunk.js": "/TaskList/static/js/1.7b630814.chunk.js",
-  "static/js/1.7b630814.chunk.js.map": "/TaskList/static/js/1.7b630814.chunk.js.map",
+  "main.css": "/TaskList/static/css/main.3edeb0ad.chunk.css",
+  "main.js": "/TaskList/static/js/main.ca42e3f8.chunk.js",
+  "main.js.map": "/TaskList/static/js/main.ca42e3f8.chunk.js.map",
+  "static/js/1.5084bace.chunk.js": "/TaskList/static/js/1.5084bace.chunk.js",
+  "static/js/1.5084bace.chunk.js.map": "/TaskList/static/js/1.5084bace.chunk.js.map",
   "runtime~main.js": "/TaskList/static/js/runtime~main.b959a96c.js",
   "runtime~main.js.map": "/TaskList/static/js/runtime~main.b959a96c.js.map",
-  "static/css/main.2eb06e0c.chunk.css.map": "/TaskList/static/css/main.2eb06e0c.chunk.css.map",
+  "static/css/main.3edeb0ad.chunk.css.map": "/TaskList/static/css/main.3edeb0ad.chunk.css.map",
   "index.html": "/TaskList/index.html",
-  "precache-manifest.6a1881609e9b2b8bff8e43b630e6ddc9.js": "/TaskList/precache-manifest.6a1881609e9b2b8bff8e43b630e6ddc9.js",
+  "precache-manifest.f02dc42eb3b2d1cdba01f87cd3d12738.js": "/TaskList/precache-manifest.f02dc42eb3b2d1cdba01f87cd3d12738.js",
   "service-worker.js": "/TaskList/service-worker.js"
 }
